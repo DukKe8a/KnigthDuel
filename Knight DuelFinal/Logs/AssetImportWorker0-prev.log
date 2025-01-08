@@ -1,0 +1,390 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.9f1 (0c9c2e1f4bef) revision 826414'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 16313 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Unity Hub\2023.2.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/U/4to Semestre/Programación avanzada/Knight DuelFinal
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50898
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: E:/U/4to Semestre/Programación avanzada/Knight DuelFinal
+E:/U/4to Semestre/Programación avanzada/Knight DuelFinal
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21040] Host "[IP] 192.168.0.21 [Port] 0 [Flags] 2 [Guid] 681380060 [EditorId] 681380060 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R8CAMHG) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [21040] Host "[IP] 192.168.0.21 [Port] 0 [Flags] 2 [Guid] 681380060 [EditorId] 681380060 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R8CAMHG) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.9f1 (0c9c2e1f4bef)
+[Subsystems] Discovering subsystems at path E:/Unity Hub/2023.2.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/U/4to Semestre/Programación avanzada/Knight DuelFinal/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f0a)
+    Vendor:   NVIDIA
+    VRAM:     3935 MB
+    Driver:   32.0.15.6094
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field SSD': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Initialize mono
+Mono path[0] = 'E:/Unity Hub/2023.2.9f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity Hub/2023.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Unity Hub/2023.2.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56384
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity Hub/2023.2.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002548 seconds.
+- Loaded All Assemblies, in  0.412 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.312 seconds
+Domain Reload Profiling: 723ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (176ms)
+		LoadAssemblies (132ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (174ms)
+			TypeCache.Refresh (172ms)
+				TypeCache.ScanAssembly (158ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (312ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (265ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (197ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.402 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.407 seconds
+Domain Reload Profiling: 809ms
+	BeginReloadAssembly (327ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (7ms)
+		LoadAssemblies (102ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (5ms)
+			TypeCache.Refresh (3ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (407ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (202ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (12ms)
+			ProcessInitializeOnLoadAttributes (160ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 61 unused Assets / (60.8 KB). Loaded Objects now: 640.
+Memory consumption went from 93.4 MB to 93.3 MB.
+Total: 4.274400 ms (FindLiveObjects: 0.062000 ms CreateObjectMapping: 0.011000 ms MarkObjects: 4.087800 ms  DeleteObjects: 0.112500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5009.596840 seconds.
+  path: Assets/Knight Duel/Development/Scenes/TutoLvl1.unity
+  artifactKey: Guid(10fade4abeec0ed41a5d2ee675914c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scenes/TutoLvl1.unity using Guid(10fade4abeec0ed41a5d2ee675914c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3cce82c22fcc6e6d0b50acf4083ec67a') in 0.0050862 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.015737 seconds.
+  path: Assets/Knight Duel/Development/Scenes/TutoLvl2.unity
+  artifactKey: Guid(dee61b5b51ee9f54ba26b3df4d8f079e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scenes/TutoLvl2.unity using Guid(dee61b5b51ee9f54ba26b3df4d8f079e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c66bd1dfa50bf99f38d86e6981c6023b') in 0.0004218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.823708 seconds.
+  path: Assets/Knight Duel/Development/Scenes/TutoLvl3.unity
+  artifactKey: Guid(a59a393df54178442a99f06af53113c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scenes/TutoLvl3.unity using Guid(a59a393df54178442a99f06af53113c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb4e0b5e55003caa96e4853773412963') in 0.0004048 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.919484 seconds.
+  path: Assets/Knight Duel/Development/Scenes/Tutorial.unity
+  artifactKey: Guid(f4f3868cd1499744da08a4560779c309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scenes/Tutorial.unity using Guid(f4f3868cd1499744da08a4560779c309) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42faf670b146869ba29b2c4f7eb5ee8e') in 0.0004896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.855044 seconds.
+  path: Assets/Knight Duel/Development/Scenes/Level 1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scenes/Level 1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd31231f4082c595712dfa0efb7f0693') in 0.0004364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.534946 seconds.
+  path: Assets/Knight Duel/Development/Scenes/Level2.unity
+  artifactKey: Guid(d18843e83579d774b95923379289065a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scenes/Level2.unity using Guid(d18843e83579d774b95923379289065a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '252d689a87ce4b10c1f44caab183907a') in 0.0003854 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.185680 seconds.
+  path: Assets/Knight Duel/Development/Scenes/Level3.unity
+  artifactKey: Guid(c1f9d5a580044f240a383011a1033c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scenes/Level3.unity using Guid(c1f9d5a580044f240a383011a1033c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba95ae08b844b0b632cddd093aab34c8') in 0.0004346 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.588334 seconds.
+  path: Assets/Knight Duel/Art 2D
+  artifactKey: Guid(d1033044fc351234b8cfaa08f14fe43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D using Guid(d1033044fc351234b8cfaa08f14fe43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd41c7979abc6aa595ac2626f3fbb5fab') in 0.0004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.952236 seconds.
+  path: Assets/Knight Duel/Art 2D/UI
+  artifactKey: Guid(c1a04069c5569ea43b9847ac6d504dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/UI using Guid(c1a04069c5569ea43b9847ac6d504dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '851eb66eb2c3ba4091293ac0e3dbc0d6') in 0.0003947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.337418 seconds.
+  path: Assets/Knight Duel/Art 2D/UI/Menu
+  artifactKey: Guid(ba61c4022a5ee014696e37c9cf5b5558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/UI/Menu using Guid(ba61c4022a5ee014696e37c9cf5b5558) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81c9fe9ef859506b1b390f75d8bb3e55') in 0.0005019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061493 seconds.
+  path: Assets/Knight Duel/Art 2D/UI/Menu/Menu.png
+  artifactKey: Guid(ff8614fa0ec5cd443b335a99e728804c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/UI/Menu/Menu.png using Guid(ff8614fa0ec5cd443b335a99e728804c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef27bf9f0c3b32572cf52b7bb2996e9d') in 0.1061864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.418410 seconds.
+  path: Assets/Knight Duel/Art 2D/UI/Tuto/Tuto.png
+  artifactKey: Guid(788e413d51be81d41a1c72a599c9dff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/UI/Tuto/Tuto.png using Guid(788e413d51be81d41a1c72a599c9dff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b31890a15c13a6d1d6e3ffcdb033141') in 0.0130612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.019662 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Backgrounds/Fondo1.png
+  artifactKey: Guid(85fad15865cecf04f8d38a2e0f922336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Backgrounds/Fondo1.png using Guid(85fad15865cecf04f8d38a2e0f922336) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b5f80202adb5a84a06a37a1e0b2d6d2') in 0.0308838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Backgrounds/Montaña.png
+  artifactKey: Guid(bc3a10071dd5f0f4ba208054fb76c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Backgrounds/Montaña.png using Guid(bc3a10071dd5f0f4ba208054fb76c998) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'adf1162aaba8bb9bc1691c85bb4ea828') in 0.0289688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Backgrounds/Fondo3.png
+  artifactKey: Guid(93c392b2840808740b65c8b8f3ea71f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Backgrounds/Fondo3.png using Guid(93c392b2840808740b65c8b8f3ea71f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '244f47f2be5c1f22cc8c00f402d6e0da') in 0.0287688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.693183 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Dragon/Drag.png
+  artifactKey: Guid(16d887a64828d124ab02fdceafa53367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Dragon/Drag.png using Guid(16d887a64828d124ab02fdceafa53367) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '684ddc1e14dfcbf76cd1f2be2b217382') in 0.0149148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.680834 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Interface/espada-02.png
+  artifactKey: Guid(36ab19b846c35e249bbe76d332d1eca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Interface/espada-02.png using Guid(36ab19b846c35e249bbe76d332d1eca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd95f8b2e01b2139d507c9be2eba4fe47') in 0.0146711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.906370 seconds.
+  path: Assets/Knight Duel/Development/Scripts/Menu
+  artifactKey: Guid(c05f706e8e3e6244e897a359d8d0d377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scripts/Menu using Guid(c05f706e8e3e6244e897a359d8d0d377) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ec63d6dfb2fae88b902864977d884e7') in 0.0005782 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.577260 seconds.
+  path: Assets/Knight Duel/Development/Scripts/Menu/MenuStart.cs
+  artifactKey: Guid(d0c9392e97c31b04a966700b657463f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scripts/Menu/MenuStart.cs using Guid(d0c9392e97c31b04a966700b657463f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66cf688d79327b16ef2b632fd1a23aca') in 0.0005837 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.875887 seconds.
+  path: Assets/Knight Duel/Development/Scripts/Menu/Tutorial.cs
+  artifactKey: Guid(18b2f93f3fb80bc46aab2cb38153990f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scripts/Menu/Tutorial.cs using Guid(18b2f93f3fb80bc46aab2cb38153990f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b80e772e6ed8ce1cb5c4c153bce81fb7') in 0.0003937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.287323 seconds.
+  path: Assets/Knight Duel/Development/Scripts/Menu/Tutoriales.cs
+  artifactKey: Guid(4b0bd27a78dd3b140bce0179de49e7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Development/Scripts/Menu/Tutoriales.cs using Guid(4b0bd27a78dd3b140bce0179de49e7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb1f0e5da53d03e56ddd92b7eab85fb3') in 0.0004191 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.998061 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Plataforms/Plataform.png
+  artifactKey: Guid(2898c6b45e12b494fb33cfa3aec3ced6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Plataforms/Plataform.png using Guid(2898c6b45e12b494fb33cfa3aec3ced6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d5a398fa876a4710d5be69a5e58ed64') in 0.1147516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.571533 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Obstacles/fuego1.png
+  artifactKey: Guid(795aa4a39345dd5478f98779aa048c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Obstacles/fuego1.png using Guid(795aa4a39345dd5478f98779aa048c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ab51493702c99d4cc3bee2c281f4307') in 0.1988916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Knight Duel/Art 2D/Sprites/Obstacles/Wood.png
+  artifactKey: Guid(1bcd76d00a4e81e4bbb44576d6d34971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Knight Duel/Art 2D/Sprites/Obstacles/Wood.png using Guid(1bcd76d00a4e81e4bbb44576d6d34971) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6de1b4e64af3dd1458a792c8305174c7') in 0.1616779 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
